@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>StemSynergy Therapeutics INC. </a>. Franklin, TN.
+subtitle: <a href='#'>StemSynergy Therapeutics INC </a>. Franklin, TN.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
