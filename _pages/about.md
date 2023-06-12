@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>StemSynergy Therapeutics INC. </a>. Franklin, TN.
 
 profile:
   align: right
