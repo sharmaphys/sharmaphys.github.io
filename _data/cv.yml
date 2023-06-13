@@ -8,12 +8,19 @@
     - name: Languages
       value: English, Nepali, Hindi
 
-
 - title: Technical Skills
-  type: list
+  type: map
   contents:
-        - PROGRAMMING LANGUAGES: Python | SQL | Bash | C++
-
+    - name: PROGRAMMING LANGUAGES
+      value: Python | SQL | Bash | C++
+    - name: DATA SCIENCE & MACHINE LEARNING
+      value: Deep Learning/Neural Networks (TensorFlow | Keras | Image Processing with CNNs) 
+                | Unsupervised Learning 
+                (K-Means | Clustering | PCA) | Linear & Logistic Regression (Scikit-Learn) 
+                | Data Processing & Visualization (Pandas | Matplotlib | Altair | Seaborn) 
+                | REST API Development | Big Data with PySpark | Cloud computing with AWS
+    - name: INDUSTRY KNOWLEDGE
+      value: Computational Drug Discovery | Computational Molecular Modeling | Cheminformatics | Structural Biology
 
 - title: Education
   type: time_table
@@ -22,83 +29,87 @@
       institution: The Data Incubator
       year: 2023
       description:
-        # - Computational Soft Matter/Bio-physics
-        #- Description 2.
-        #- title: Description 3.
-        #  contents:
-        #    - Sub-description 1.
-        #    - Sub-description 2.
+
     - title: Ph.D. in Computational Softmatter/Bio-physics 
       institution: University of Connecticut, Storrs, CT
       year: 2019
       description:
        # - Description 1.
        # - Description 2.
+       #
+
+    - title: M.S. in Physics
+      institution: University of Connecticut, Storrs, CT
+      year: 2014
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Scientist
+      institution: <strong>StemSynergy THERAPEUTICS INC. </strong>
+      year: OCT 2021 - Present 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Strategically led the computational part of molecular modeling, drug discovery, and structural biology. Leveraged state-of-the-art technologies.
+        - Collaborated and transparently communicated results with colleagues from the chemistry and biology departments and stake holders. 
+                Custom-built LINUX computer clusters with GPUs and CPUs
+        - Wrote a substantial amount of Python scripts to analyze huge volumes of data generated from molecular dynamics simulations. 
+                Conducted unsupervised machine learning algorithms using k-means clustering on a custom build cluster. 
+                Implemented the script so that 10M+ data points could efficiently be clustered into 14k+ clusters in less than 30 minutes
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Postdoctoral Scholar
+      institution: <strong>VANDERBILT UNIVERSITY</strong>
+      year: Sep 2019 - Sep 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted individual research, actively working on multiple projects at the same time.Assisted colleagues with no prior experience in programming/LINUX environment
+        - Learned all the fundamentals, terminologies, and C++ in a short period of time. Actively contributed to a codebase for protein modeling, specifically ensemble based 
+                ligand docking algorithm within ROSETTA software
+        - Enabled rotating student to successfully complete a mini project with close supervision and mentorship. Enabled students to become comfortable with LINUX command lines in a few short months.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: University of Connecticut
+      year: Aug 2012 - Aug 2019
       description:
+        - Administered and managed Linux computer cluster nodes, including open-source molecular modeling software suites.
+        - Developed custom Python scripts that analyze large volumes of data generated from MD simulations
+        - Designed and implemented an innovative algorithm utilizing Graph theory and matrix algebra that computed 
+                endpoints of dynamic data points within a flexible contour
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Data Science Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/sharmaphys/review-keywords">review-keywords</a>
+      year: April 2023 - May 2023
+      description: Aspect based sentiment analysis of Nashville Restaurant reviews.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 1921
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
+        -  
+        - 
     - year: 2029
       items: 
-        - Max Planck Medal
+        - 
 
-- title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI/ML.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Have deep interest on AI/ML and Big Data.
+        - Implementing these technologies towards some meaningful applications.
+        
+   # - title: Topic 2.
+   #   items:
+   #     - Description 1.
+   #     - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, Camping, etc.
