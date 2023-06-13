@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>StemSynergy Therapeutics INC </a>. Franklin, TN.
+subtitle: 
 
 profile:
   align: right
@@ -16,13 +16,15 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Hi There. My first test text. Lets change. we have changes...........
+I am a computational scientist working on the interface of 
+cheminformatics/structural-biology and data science. I truly believe the future is data.
+Levereging data centric approach and employing the recent trends in the field like generative modeling, geometric deep learning, 
+large language models etc will keep us moving forward in achieving our goals and ultimately help the society and its citizens through science.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+With this objective in mind, I look forward to work in this direction and utilize these application in my day to day work. I am excited 
+to see what the future brings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you are interested or would like to connect with me, please reach out to me via my social media account (LinkedIn) or email me.
