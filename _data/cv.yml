@@ -2,11 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hari Sharma
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Languages
       value: English, Nepali, Hindi
+
+
+- title: Technical Skills
+  type: list
+  contents:
+        - PROGRAMMING LANGUAGES: Python | SQL | Bash | C++
+
 
 - title: Education
   type: time_table
@@ -21,12 +28,12 @@
         #  contents:
         #    - Sub-description 1.
         #    - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Ph.D. in Computational Softmatter/Bio-physics 
+      institution: University of Connecticut, Storrs, CT
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+       # - Description 1.
+       # - Description 2.
 
 - title: Experience
   type: time_table
