@@ -19,13 +19,17 @@
                 (K-Means | Clustering | PCA) | Linear & Logistic Regression (Scikit-Learn) 
                 | Data Processing & Visualization (Pandas | Matplotlib | Altair | Seaborn) 
                 | REST API Development | Big Data with PySpark | Cloud computing with AWS
+    - name: MOLECULAR MODELING CHEMINFORMATICS/STRUCTURAL BIOLOGY SOFTWARES
+      value: GROMACS, AMBER, MOE, ROSETTA | VMD, PyMOL | RDKit
+    - name: RESEARCH METHODS
+      value: Molecular Dynamics Simulations, Docking, Comparative Modeling, Virtual High-throughput Screening
     - name: INDUSTRY KNOWLEDGE
       value: Computational Drug Discovery | Computational Molecular Modeling | Cheminformatics | Structural Biology
 
 - title: Education
   type: time_table
   contents:
-    - title: Data Scientist Certification-Fellowship Program
+    - title: <a href="https://www.credly.com/badges/1b266147-c78b-42ad-b441-8ded69f179b6/public_url"> Data Scientist Certification-Fellowship Program</a>
       institution: The Data Incubator
       year: 2023
       description:
@@ -88,13 +92,31 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021
+    - year: 2018
       items: 
-        -  
-        - 
-    - year: 2029
+        -  Doctoral Dissertation Fellowship, Spring 2018, University of Connecticut, CT, USA
+    - year: 2017
+      items:
+        -  Best presentation of the session COLL, paper 303, Aug 2017, 254th ACS National Meeting, Washington DC.
+        -  Travel Award, Canadian-American-Mexican (CAM) Graduate Student Physics Conference, Aug 2017, Washington D.C, American Physical Society
+        -  Excellence in Teaching Appreciation, Spring 2017, Office of Provost, University of Connecticut, CT, USA
+    - year: 2016
       items: 
-        - 
+        -  Doctoral Student Travel Award, Spring 2016, University of Connecticut, Storrs, CT, USA.
+
+    - year: 2015
+      items:
+        -  CLAS Summer Fellowship, Summer 2015, University of Connecticut, Storrs, CT, USA
+
+    - year: 2014
+      items:
+        -  Excellence in Teaching Appreciation, 28th March 2014, Office of Provost, University of Connecticut, CT, USA
+    - year: 2012
+      items:
+        -  Anne and Winthrop Smith Fellowship, Fall 2012, Department of Physics, University of Connecticut, CT, USA
+
+
+
 
 - title: Interests
   type: nested_list
